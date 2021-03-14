@@ -1,0 +1,39 @@
+------------------------------ 1.0 -----------------------------------
+Utworzenie serwera i klienta TCP
+Prosta wymiana komunikatów
+Zdobywanie i wysy³anie informacji o pliku
+
+------------------------------ 1.1 -------------------------------------
+Dodanie UDP (serwer i klient) - te same polecenia co TCP
+Poprawienie dzia³ania TCP
+
+------------------------------ 1.2 -------------------------------------
+Otwieranie i zapis plików
+Wysy³anie ma³ych paczek z informacjami z pliku
+Dostosywanie rozmiaru tablic na podstawie informacji o pliku
+
+------------------------------ 1.3 --------------------------------------
+Utworzenie kolekcji do przechowywania wiekszej liczby informacji (lista obiektów klasy "Paczka")
+Aktualizacja UDP do wysy³ania wiekszej liczby paczek (wczeœniej pojedyñczo)
+
+----------------------------- 1.4 ----------------------------------------
+Zaktualizowano kolekcjê paczek o wieksz¹ liczbê przechowywanych informacji (4 x bajty = 1 intiger). [Standardnowe tablice by³y zbyt ma³e]
+Aktualizacja metod wysy³ania i odbierania (przesuniêcia bitowe, tymczasowy bufor - zwi¹zane z powy¿szym)
+Testowy przesy³ przez TCP
+Aktualizacja metod zapisu.
+
+----------------------------- 1.5 -----------------------------------------
+Wprowadzenie kontroli brakuj¹cych danych u klienta
+Wprowadzenie konstrukcji nowych paczek u serwera w oparciu o brakuj¹ce paczki (metoda "Brakuj¹ce_paczki")
+Przebudowa funkcji wysy³ania odpowiedzi z serwera
+
+---------------------------- 1.6 -----------------------------------------
+Aktualizacja pêtli odpowiedzialnej za komunikacjê u klienta
+Zrównoleglenie komunikacji TCP i UDP do dwóch w¹tków (wczeœniej naprzemiennie)
+Aktyalizacja funkcji odbioru danych (niepoprawnie dobrane indeksy, w wyniku czego czêœæ paczek nie by³a poprawnie buforowana - pliki muzyczne dzia³a³y nieco gorzej, tekstowe zapisywane z b³êdem)
+
+----------------------------- 1.7 ----------------------------------------
+Wprowadzenie obslugi b³êdów
+Uporz¹dkowanie nie których fukcji i metod
+
+

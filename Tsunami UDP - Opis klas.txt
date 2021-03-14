@@ -1,0 +1,7 @@
+KLIENT:
+Klient.cs  --> Nadzór nad komunikacj¹ TCP ze strony klienta
+Metody_Klient.cs  --> Konstruowanie odbieranych danych w odpowiedniej strukturze, zapis pliku i kontrola poprawnoœci
+
+SERWER:
+Serwer.cs  --> Nadzór komunikacji TCP ze strony serwera
+Metody_Serwer.cs  --> Konstrukcja odpowiednich paczek, wysy³anie paczek, konstruowanie odpowiedzi i obs³uga b³êdów

@@ -1,0 +1,42 @@
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami\Klient\bin\Debug\Klient.exe.config
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami\Klient\bin\Debug\Klient.exe
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami\Klient\bin\Debug\Klient.pdb
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami\Klient\obj\Debug\Klient.csprojAssemblyReference.cache
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami\Klient\obj\Debug\Klient.csproj.CoreCompileInputs.cache
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami\Klient\obj\Debug\Klient.exe
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami\Klient\obj\Debug\Klient.pdb
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami — kopia\Klient\bin\Debug\Klient.exe.config
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami — kopia\Klient\bin\Debug\Klient.exe
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami — kopia\Klient\bin\Debug\Klient.pdb
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami — kopia\Klient\obj\Debug\Klient.csprojAssemblyReference.cache
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami — kopia\Klient\obj\Debug\Klient.csproj.CoreCompileInputs.cache
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami — kopia\Klient\obj\Debug\Klient.exe
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami — kopia\Klient\obj\Debug\Klient.pdb
+C:\Users\Kamil\Desktop\Robocze\Tsunami — kopia\Klient\bin\Debug\Klient.exe.config
+C:\Users\Kamil\Desktop\Robocze\Tsunami — kopia\Klient\bin\Debug\Klient.exe
+C:\Users\Kamil\Desktop\Robocze\Tsunami — kopia\Klient\bin\Debug\Klient.pdb
+C:\Users\Kamil\Desktop\Robocze\Tsunami — kopia\Klient\obj\Debug\Klient.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\Robocze\Tsunami — kopia\Klient\obj\Debug\Klient.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Robocze\Tsunami — kopia\Klient\obj\Debug\Klient.exe
+C:\Users\Kamil\Desktop\Robocze\Tsunami — kopia\Klient\obj\Debug\Klient.pdb
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\Tsunami — kopia\Klient\bin\Debug\Klient.exe.config
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\Tsunami — kopia\Klient\bin\Debug\Klient.exe
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\Tsunami — kopia\Klient\bin\Debug\Klient.pdb
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\Tsunami — kopia\Klient\obj\Debug\Klient.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\Tsunami — kopia\Klient\obj\Debug\Klient.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\Tsunami — kopia\Klient\obj\Debug\Klient.exe
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\Tsunami — kopia\Klient\obj\Debug\Klient.pdb
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK II\Klient\bin\Debug\Klient.exe.config
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK II\Klient\bin\Debug\Klient.exe
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK II\Klient\bin\Debug\Klient.pdb
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK II\Klient\obj\Debug\Klient.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK II\Klient\obj\Debug\Klient.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK II\Klient\obj\Debug\Klient.exe
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK II\Klient\obj\Debug\Klient.pdb
+C:\Users\Kamil Mularski\Desktop\UMK\Materiały do nauki\PSK - Projekty koncowe\PSK II\Klient\bin\Debug\Klient.exe.config
+C:\Users\Kamil Mularski\Desktop\UMK\Materiały do nauki\PSK - Projekty koncowe\PSK II\Klient\bin\Debug\Klient.exe
+C:\Users\Kamil Mularski\Desktop\UMK\Materiały do nauki\PSK - Projekty koncowe\PSK II\Klient\bin\Debug\Klient.pdb
+C:\Users\Kamil Mularski\Desktop\UMK\Materiały do nauki\PSK - Projekty koncowe\PSK II\Klient\obj\Debug\Klient.csprojAssemblyReference.cache
+C:\Users\Kamil Mularski\Desktop\UMK\Materiały do nauki\PSK - Projekty koncowe\PSK II\Klient\obj\Debug\Klient.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Mularski\Desktop\UMK\Materiały do nauki\PSK - Projekty koncowe\PSK II\Klient\obj\Debug\Klient.exe
+C:\Users\Kamil Mularski\Desktop\UMK\Materiały do nauki\PSK - Projekty koncowe\PSK II\Klient\obj\Debug\Klient.pdb

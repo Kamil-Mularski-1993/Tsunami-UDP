@@ -1,0 +1,49 @@
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami\Serwer\bin\Debug\Serwer.exe.config
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami\Serwer\bin\Debug\Serwer.exe
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami\Serwer\bin\Debug\Serwer.pdb
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami\Serwer\obj\Debug\Serwer.csprojAssemblyReference.cache
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami\Serwer\obj\Debug\Serwer.exe
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami\Serwer\obj\Debug\Serwer.pdb
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami — kopia\Serwer\bin\Debug\Serwer.exe.config
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami — kopia\Serwer\bin\Debug\Serwer.exe
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami — kopia\Serwer\bin\Debug\Serwer.pdb
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami — kopia\Serwer\obj\Debug\Serwer.csprojAssemblyReference.cache
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami — kopia\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami — kopia\Serwer\obj\Debug\Serwer.exe
+E:\I Rok S2\Programowanie sieciowo-komunikacyjne\Tsunami — kopia\Serwer\obj\Debug\Serwer.pdb
+C:\Users\Kamil\Desktop\PSK\Tsunami — kopia\Serwer\bin\Debug\Serwer.exe.config
+C:\Users\Kamil\Desktop\PSK\Tsunami — kopia\Serwer\bin\Debug\Serwer.exe
+C:\Users\Kamil\Desktop\PSK\Tsunami — kopia\Serwer\bin\Debug\Serwer.pdb
+C:\Users\Kamil\Desktop\PSK\Tsunami — kopia\Serwer\obj\Debug\Serwer.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\PSK\Tsunami — kopia\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\PSK\Tsunami — kopia\Serwer\obj\Debug\Serwer.exe
+C:\Users\Kamil\Desktop\PSK\Tsunami — kopia\Serwer\obj\Debug\Serwer.pdb
+C:\Users\Kamil\Desktop\Robocze\Tsunami — kopia\Serwer\bin\Debug\Serwer.exe.config
+C:\Users\Kamil\Desktop\Robocze\Tsunami — kopia\Serwer\bin\Debug\Serwer.exe
+C:\Users\Kamil\Desktop\Robocze\Tsunami — kopia\Serwer\bin\Debug\Serwer.pdb
+C:\Users\Kamil\Desktop\Robocze\Tsunami — kopia\Serwer\obj\Debug\Serwer.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\Robocze\Tsunami — kopia\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Robocze\Tsunami — kopia\Serwer\obj\Debug\Serwer.exe
+C:\Users\Kamil\Desktop\Robocze\Tsunami — kopia\Serwer\obj\Debug\Serwer.pdb
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\Tsunami — kopia\Serwer\obj\Debug\Serwer.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\Tsunami — kopia\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\Tsunami — kopia\Serwer\obj\Debug\Serwer.exe
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\Tsunami — kopia\Serwer\obj\Debug\Serwer.pdb
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\Tsunami — kopia\Serwer\bin\Debug\Serwer.exe.config
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\Tsunami — kopia\Serwer\bin\Debug\Serwer.exe
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\Tsunami — kopia\Serwer\bin\Debug\Serwer.pdb
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK II\Serwer\bin\Debug\Serwer.exe.config
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK II\Serwer\bin\Debug\Serwer.exe
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK II\Serwer\bin\Debug\Serwer.pdb
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK II\Serwer\obj\Debug\Serwer.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK II\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK II\Serwer\obj\Debug\Serwer.exe
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK II\Serwer\obj\Debug\Serwer.pdb
+C:\Users\Kamil Mularski\Desktop\UMK\Materiały do nauki\PSK - Projekty koncowe\PSK II\Serwer\bin\Debug\Serwer.exe.config
+C:\Users\Kamil Mularski\Desktop\UMK\Materiały do nauki\PSK - Projekty koncowe\PSK II\Serwer\bin\Debug\Serwer.exe
+C:\Users\Kamil Mularski\Desktop\UMK\Materiały do nauki\PSK - Projekty koncowe\PSK II\Serwer\bin\Debug\Serwer.pdb
+C:\Users\Kamil Mularski\Desktop\UMK\Materiały do nauki\PSK - Projekty koncowe\PSK II\Serwer\obj\Debug\Serwer.csprojAssemblyReference.cache
+C:\Users\Kamil Mularski\Desktop\UMK\Materiały do nauki\PSK - Projekty koncowe\PSK II\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Mularski\Desktop\UMK\Materiały do nauki\PSK - Projekty koncowe\PSK II\Serwer\obj\Debug\Serwer.exe
+C:\Users\Kamil Mularski\Desktop\UMK\Materiały do nauki\PSK - Projekty koncowe\PSK II\Serwer\obj\Debug\Serwer.pdb
